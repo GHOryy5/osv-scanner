@@ -2024,7 +2024,7 @@ interactions:
                 },
                 {
                   "id": "GO-2025-4006",
-                  "modified": "2025-11-06T13:59:37.802519Z"
+                  "modified": "2025-12-09T17:35:58.036871Z"
                 },
                 {
                   "id": "GO-2025-4007",
@@ -3601,7 +3601,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 8997
+      content_length: 9564
       body: |
         {
           "results": [
@@ -3610,7 +3610,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {
               "vulns": [
                 {
@@ -3686,7 +3693,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {},
             {
               "vulns": [
@@ -4005,7 +4019,14 @@ interactions:
               ]
             },
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {
               "vulns": [
                 {
@@ -4135,7 +4156,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {},
             {
               "vulns": [
@@ -4248,7 +4276,14 @@ interactions:
               ]
             },
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {},
             {
               "vulns": [
@@ -4273,7 +4308,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {
               "vulns": [
                 {
@@ -4352,13 +4394,20 @@ interactions:
             },
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {}
           ]
         }
       headers:
         Content-Length:
-          - "8997"
+          - "9564"
         Content-Type:
           - application/json
       status: 200 OK
@@ -5108,7 +5157,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 13503
+      content_length: 14070
       body: |
         {
           "results": [
@@ -5117,7 +5166,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {
               "vulns": [
                 {
@@ -5425,7 +5481,7 @@ interactions:
                 },
                 {
                   "id": "GO-2025-4006",
-                  "modified": "2025-11-06T13:59:37.802519Z"
+                  "modified": "2025-12-09T17:35:58.036871Z"
                 },
                 {
                   "id": "GO-2025-4007",
@@ -5502,7 +5558,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {},
             {
               "vulns": [
@@ -5821,7 +5884,14 @@ interactions:
               ]
             },
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {
               "vulns": [
                 {
@@ -5951,7 +6021,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {},
             {
               "vulns": [
@@ -6064,7 +6141,14 @@ interactions:
               ]
             },
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {},
             {
               "vulns": [
@@ -6089,7 +6173,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {
               "vulns": [
                 {
@@ -6168,13 +6259,20 @@ interactions:
             },
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "UBUNTU-CVE-2025-14104",
+                  "modified": "2025-12-09T08:33:14.345804Z"
+                }
+              ]
+            },
             {}
           ]
         }
       headers:
         Content-Length:
-          - "13503"
+          - "14070"
         Content-Type:
           - application/json
       status: 200 OK
